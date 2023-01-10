@@ -11,7 +11,7 @@ contract MyContract {
     string public myString = "Hello, world!";
     bytes32 public myBytes32 = "Hello, world!";
 
-    address public myAddress = 0xA67E5CF9B9907a0045024C16201756E0550211d5; 
+    address public myAddress = address; 
 
     struct MyStruct {
         uint256 myUint256;
