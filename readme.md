@@ -11,4 +11,4 @@ Dapp Univsersity
 
 
 List of Projects to Build
-[] TBD
+[] ToDo List using smart contracts
