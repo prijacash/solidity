@@ -12,3 +12,6 @@ Dapp Univsersity
 
 List of Projects to Build
 [] ToDo List using smart contracts
+
+Udemy Course
+[] Ethereum & Solidity - Complete Course - in progress
